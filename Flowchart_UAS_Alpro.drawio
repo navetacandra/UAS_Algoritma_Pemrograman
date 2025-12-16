@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="LWfCMlae0YL2Ivigan7M">
-    <mxGraphModel dx="791" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1385" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -230,10 +230,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XsqC9HM3nMMGIrP9ee2g-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="daftar_pustaka[j]&lt;br&gt;&amp;gt;&lt;br&gt;daftar_pustaka[j+1]" vertex="1">
+        <mxCell id="XsqC9HM3nMMGIrP9ee2g-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="daftar_paket[j]&lt;br&gt;&amp;gt;&lt;br&gt;daftar_paket[j+1]" vertex="1">
           <mxGeometry height="130" width="150" x="1035" y="325" as="geometry" />
         </mxCell>
-        <mxCell id="XsqC9HM3nMMGIrP9ee2g-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="temp = daftar_pustaka[j]&lt;br&gt;daftar_pustaka[j] = daftar_pustaka[j+1]&lt;br&gt;daftar_pustaka[j+1] = temp" vertex="1">
+        <mxCell id="XsqC9HM3nMMGIrP9ee2g-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="temp = daftar_paket[j]&lt;br&gt;daftar_paket[j] = daftar_paket[j+1]&lt;br&gt;daftar_paket[j+1] = temp" vertex="1">
           <mxGeometry height="100" width="220" x="1000" y="500" as="geometry" />
         </mxCell>
         <mxCell id="XsqC9HM3nMMGIrP9ee2g-28" edge="1" parent="1" source="XsqC9HM3nMMGIrP9ee2g-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XsqC9HM3nMMGIrP9ee2g-27" value="">
